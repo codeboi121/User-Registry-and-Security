@@ -3,7 +3,6 @@ Got it, homie. Here's your clean `README.md` with all credits and references to 
 
 ---
 
-````markdown
 # Spring Security - User Registration System
 
 This project implements a secure **User Registration and Login System** using **Spring Boot**, **Spring Security**, **Hibernate (JPA)**, and **MySQL**. It features role-based authentication and integrates form-based login with encrypted password storage.
@@ -41,7 +40,6 @@ This project implements a secure **User Registration and Login System** using **
 ```bash
 git clone https://github.com/your-username/spring-security-user-registration.git
 cd spring-security-user-registration
-````
 
 ### 2. Set Up MySQL Database
 
@@ -98,15 +96,6 @@ You can also register new users through the `/register` page.
 
 ---
 
-## 🖼 Screenshots
-
-Include UI screenshots here, such as:
-
-* Login Page
-* Registration Page
-* Access Denied Page
-
-*(Optional — add your own)*
 
 ---
 
