@@ -1,5 +1,5 @@
 # User-Registry-and-Security
-Got it, homie. Here's your clean `README.md` with all credits and references to Chad Darby removed. It now presents the project as your own work:
+
 
 ---
 
