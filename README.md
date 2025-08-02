@@ -1,7 +1,3 @@
-# User-Registry-and-Security
-
-
----
 
 # Spring Security - User Registration System
 
@@ -112,5 +108,4 @@ Let me know if you want to:
 - Include badges or deploy instructions
 - Rename the package from `com.luv2code` to your own (I can help batch-rename all files)
 
-Want me to generate a fresh ZIP with your name and clean package names?
 ```
