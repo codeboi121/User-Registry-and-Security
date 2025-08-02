@@ -101,11 +101,5 @@ This project is open-source and free to use for personal and educational purpose
 
 ```
 
----
-
-Let me know if you want to:
-- Add your name or GitHub handle as the author
-- Include badges or deploy instructions
-- Rename the package from `com.luv2code` to your own (I can help batch-rename all files)
 
 ```
